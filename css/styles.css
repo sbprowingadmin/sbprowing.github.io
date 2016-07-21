@@ -229,7 +229,7 @@ h1.arrow { font-size: 15px; text-transform: uppercase; color: #353535; letter-sp
 Features
 ========================================================================== */
 .features-wrapper, .team-wrapper { margin: 70px 0 0; }
-.shadow { text-shadow: rgb(128, 0, 0) 1px 1px, rgb(128, 0, 0) 2px 2px, rgb(128, 0, 0) 3px 3px, rgb(128, 0, 0) 4px 4px, rgb(128, 0, 0) 5px 5px, rgb(128, 0, 0) 6px 6px, rgb(130, 13, 12) 21px 21px, rgb(131, 15, 17) 22px 22px, rgb(132, 25, 17) 23px 23px, rgb(133, 29, 20) 24px 24px, rgb(134, 36, 24) 25px 25px, rgb(134, 42, 32) 26px 26px, rgb(136, 57, 46) 27px 27px, rgb(136, 68, 57) 28px 28px, rgb(137, 69, 58) 29px 29px, rgb(138, 71, 65) 30px 30px; }
+.shadow { text-shadow: rgb(129, 8, 8) 8px 8px, rgb(129, 10, 10) 9px 9px, rgb(129, 11, 11) 10px 10px, rgb(130, 13, 12) 11px 11px, rgb(131, 15, 17) 12px 12px, rgb(132, 25, 17) 13px 13px, rgb(133, 29, 20) 14px 14px, rgb(134, 36, 24) 15px 15px, rgb(134, 42, 32) 16px 16px, rgb(136, 57, 46) 17px 17px, rgb(136, 68, 57) 18px 18px, rgb(137, 69, 58) 19px 19px, rgb(138, 71, 65) 20px 20px; }
 .icon { height: 175px; width: 175px; line-height: 175px; max-width: 100%; background: rgb(128, 0, 0); border-radius: 50%; -o-border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; display: block; color: #fff; font-size: 55px; text-align: center; vertical-align: middle; position: relative; margin: 0 auto 50px; }
 /* ==========================================================================
 iPhone Section
