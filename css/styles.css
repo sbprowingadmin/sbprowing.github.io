@@ -184,6 +184,8 @@ h2::after { content: " "; border: solid 2px #800000; display: block; width: 35px
 .light-box:hover, .light-box:focus { -webkit-box-shadow: 0px 3px 0px 0px #800000; -moz-box-shadow: 0px 3px 0px 0px #800000; box-shadow: 0px 3px 0px 0px #800000; }
 .box-hover { transition: all 500ms ease-in-out; -webkit-transition: all 500ms ease-in-out; -moz-transition: all 500ms ease-in-out; -o-transition: all 500ms ease-in-out; }
 .box-hover:hover, .box-hover:focus { transform: translate(0, -15px); -webkit-transform: translate(0, -15px); -ms-transform: translate(0, -15px); }
+.listleft{text-align: left;}
+.listleft li{padding-top: 3px;}
 .wrapper { height: 650px; }
 .nopadding { padding: 0; }
 .inner { padding-top: 170px; }
