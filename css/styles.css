@@ -315,8 +315,8 @@ ul.legals { list-style: none; color: #fff; line-height: 25px; }
 ul.legals li { display: inline-block; }
 ul.legals li::after { content: " |"; }
 ul.legals li:last-child::after { content: ""; }
-.legals { text-align: left; }
-.credit { text-align: right; }
+.legals { text-align: center; }
+.credit { text-align: center; }
 /* ==========================================================================
 FlexSlider Custom CSS
 ========================================================================== */
